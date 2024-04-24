@@ -1,0 +1,3 @@
+def select_hash_function():
+    # Select appropriate hash function algorithm
+    pass
